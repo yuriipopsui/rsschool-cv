@@ -16,3 +16,22 @@
 #### Прошел курс верстки для понмания процесса создания веб сайтов.
 #### Есть навык верстки лендингов и сайтов-визиток. Также в рамках курса был сверстан интернет-магазин.
 #### Сейчас изучаю JavaScript для углубления своих знаний и написания полноценных веб приложений.
+
+### Навыки.
+#### В работе пользуюсь системой контроля версий Git.
+#### Также для "оживления" сайта использую Jquery.
+#### Есть опыт работы со сборщиком gulp и препроцессором Sass/SCSS.
+
+### Примеры работ.
+  ```
+  <header class="header">
+    <div class="header__top">
+      <div class="header__top-container">
+        <p class="header__top-text header__top-item">Contact Sales</p>
+        <a class="header__top-tel header__top-item" href="tel: +380670000000">TEL 067-000-0000</a>
+        <a class="header__top-lang header__top-item" href="">US</a>
+      </div>
+    </div>
+  </header>
+  
+  ```
