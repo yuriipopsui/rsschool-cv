@@ -1,0 +1,81 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 400;
+  color: #282828;
+}
+ul{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+  color: #282828;
+}
+.main,
+.footer{
+  background-color: #eee;
+  max-width: 1200px;
+  padding: 30px 30px 30px;
+  margin: 0 auto;
+}
+.name{
+ text-align: center;
+}
+.name__avatar{
+  margin-left: 70px;
+ }
+.title{
+  font-weight: 700;
+  margin-left: 30px;
+}
+.contacts{
+  margin-bottom: 30px;
+}
+.skills__list{
+  margin-left: 25px;
+  list-style-type: disc;
+}
+.contacts__list{
+  list-style: square;
+  transition: all 3s;
+}
+.contacts__list-item{
+  transition: all 8s;
+}
+.contacts__list-link:hover{
+  border-bottom: 1px solid #282828;
+  font-weight: 700;
+}
+.about__list-item{
+  margin-bottom: 12px;
+}
+.skills__description,
+.education__text,
+.language__text{
+  max-width: 900px;
+  margin-left: 40px;
+}
+.code-example__code{
+  padding: 5px;
+  background: #202020;
+  color: #eee;
+}
+.footer{
+  padding-top: 0;
+}
+.footer__wrapper{
+  max-width: 900px;
+  margin: 0 auto;
+  border-top: 2px solid #fff;
+}
+.footer__list{
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+.footer__list-item span{
+  color: #eee;
+}
+
+
